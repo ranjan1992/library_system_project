@@ -1,0 +1,38 @@
+.container--not {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container--not_page {
+  width: 40rem;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f6e8ea;
+  padding: 3rem;
+  row-gap: 2rem;
+}
+
+.container--not_page h2 {
+  font-size: 2.5rem;
+  color: #571f20;
+}
+
+.container--not_page a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  background-color: #571f20;
+  padding: 1rem 2rem;
+  color: #f6e8ea;
+  border-radius: 1rem;
+}
+
+.container--not_page a:hover {
+  background-color: #c5aaac;
+  color: #571f20;
+}
