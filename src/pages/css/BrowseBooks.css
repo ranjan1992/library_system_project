@@ -79,3 +79,25 @@
   font-size: 2rem;
   color: #571f20;
 }
+
+@media (max-width: 1200px) {
+  .container--cards {
+    width: 50rem;
+  }
+}
+
+@media (max-width: 850px) {
+  .container--cards {
+    width: 40rem;
+  }
+}
+
+@media (max-width: 656px) {
+  .container--cards {
+    width: 25rem;
+  }
+
+  .container--card_browse {
+    width: 100%;
+  }
+}
