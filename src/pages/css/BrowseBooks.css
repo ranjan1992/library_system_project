@@ -63,3 +63,19 @@
   font-size: large;
   border: 1px solid #571f20;
 }
+
+.delete--btn {
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+  margin-top: 0.5rem;
+  border: none;
+  background-color: rgb(171, 107, 107);
+  cursor: pointer;
+  color: #f6e8ea;
+}
+
+.container--no_books {
+  margin: 0 auto;
+  font-size: 2rem;
+  color: #571f20;
+}
