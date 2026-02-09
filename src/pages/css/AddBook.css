@@ -1,0 +1,28 @@
+.container--add {
+  background-color: #f6e8ea;
+  display: flex;
+  flex-direction: column;
+  width: 30rem;
+  padding: 2rem;
+  margin: 5rem auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.container--add input {
+  width: 70%;
+  padding: 1rem;
+  font-size: large;
+  margin-bottom: 0.5rem;
+}
+
+.container--add h1 {
+  margin-bottom: 1rem;
+}
+
+.container--add button {
+  width: 70%;
+  font-size: larger;
+  padding: 1rem;
+  cursor: pointer;
+}
